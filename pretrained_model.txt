@@ -1,0 +1,2 @@
+Pretrained model link:https://drive.google.com/file/d/1-Kg2pOYPK7uoiRkxPtaxRb1ms6JPQH6X/view?usp=sharing
+You can use this url to access my trained model and you can use it.
