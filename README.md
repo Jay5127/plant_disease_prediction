@@ -9,7 +9,18 @@ The dataset used for training and testing the model consists of images of plant 
 Kaggle Plant Disease Dataset
 https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
+## Model Architecture
+The model is built using a convolutional neural network (CNN) architecture, which is effective for image classification tasks. Key layers include:
+
+Convolutional layers
+Max pooling layers
+Fully connected layers
+The model is trained using the following loss function and optimizer:
+
+Loss Function: Categorical Crossentropy
+Optimizer: Adam
 
 
+## User interface
 
 ![User interface](https://github.com/Jay5127/plant_disease_prediction/blob/main/Screenshot%202024-10-10%20195141.png)
